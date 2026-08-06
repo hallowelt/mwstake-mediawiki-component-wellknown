@@ -1,0 +1,8 @@
+[
+	{
+		"path": "/.well-known/{filename}",
+		"method": "GET",
+		"class": "MWStake\\MediaWiki\\Component\\WellKnown\\Rest\\WellKnownHandler",
+		"services": [ "MWStake.WellKnown.FileRegistry" ]
+	}
+]
