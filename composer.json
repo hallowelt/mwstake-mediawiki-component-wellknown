@@ -36,7 +36,7 @@
 	"autoload": {
 		"psr-4": {
 			"MWStake\\MediaWiki\\Component\\WellKnown\\": "src/",
-			"MWStake\\MediaWiki\\Component\\WellKnown\\Tests\\Unit\\": "tests/unit/"
+			"MWStake\\MediaWiki\\Component\\WellKnown\\Tests\\Unit\\": "tests/phpunit/unit/"
 		},
 		"files": [
 			"bootstrap.php"
